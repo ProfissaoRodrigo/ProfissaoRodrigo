@@ -4,6 +4,7 @@ Cientista da Computação em Formação | Foco em Dados, Cloud & IA
 <div align="center"> <a href="https://linkedin.com/in/rodrigo-batista-9974b271" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:profissaorodrigo@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> </div>
 
 👨‍💻 Sobre Mim
+
 Estudante de Ciência da Computação com experiência em:
 ✔ Análise de dados (Python, SQL, Power BI)
 ✔ Cloud Computing (AWS, Linux)
